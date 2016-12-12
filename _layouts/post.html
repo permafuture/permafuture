@@ -1,16 +1,50 @@
 ---
-layout: main
+layout: default
 ---
-<!-- Main -->
-	<div id="main" class="wrapper style1">
-		<div class="container">
-			<section>
-				<header class="major">
-					<h2>{{ page.title }}</h2>
-					<span class="byline">{{ page.date | date_to_string }}</span>
-				</header>
-				<img src="{{ site.baseurl }}/assets/{{ page.featured }}" alt="">
-				{{ page.content }}
-			</section>
-		</div>
-	</div>
+
+<div class="post-title">
+    <h1>{{ page.title }}</h1>
+    {% include post-header.html %}
+</div>
+
+  {{ content }}
+
+<div class="post-footer">
+  {% include post-footer.html %}
+</div>
+<hr/>
+
+{% if site.data.theme.show_post_navs %}
+  {% if page.previous or page.next %}
+    <div class="post-navs row">
+      {% if page.previous %}
+        <div class="col-md-6 post-nav">
+
+          <h3 class="section-header">
+            Older
+            <span class="text-muted"> &middot; </span>
+            <a href="{{ "/archive" | prepend:site.baseurl }}">View Archive ({{ site.posts.size }})</a>
+          </h3>
+
+          <h2 class="post-title-link"><a href="{{ page.previous.url | prepend:site.baseurl }}">{{ page.previous.title }}</a></h2>
+          {{ page.previous.excerpt | markdownify }}
+        </div>
+      {% endif %}
+      {% if page.next %}
+
+        <div class="col-md-6 post-nav">
+          <h3 class="section-header">
+            Newer
+            {% unless page.previous %}
+              <span class="text-muted"> &middot; </span>
+              <a href="{{ "/archive" | prepend:site.baseurl }}">View Archive ({{ site.posts.size }})</a>
+            {% endunless %}
+          </h3>
+
+          <h2 class="post-title-link"><a href="{{ page.next.url | prepend:site.baseurl }}">{{ page.next.title }}</a></h2>
+          {{ page.next.excerpt | markdownify }}
+        </div>
+      {% endif %}
+    </div>
+  {% endif %}
+{% endif %}

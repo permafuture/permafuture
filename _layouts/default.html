@@ -1,68 +1,37 @@
-<!DOCTYPE HTML>
-<!--
-	Horizons by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
--->
+<!DOCTYPE html>
 <html>
-	<head>
-		<title>{{ page.title }}</title>
-		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="description" content="" />
-		<meta name="keywords" content="" />
-		<!--[if lte IE 8]><script src="{{ site.baseurl }}/assets/css/ie/html5shiv.js"></script><![endif]-->
-		<script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/jquery.dropotron.min.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/skel.min.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/skel-layers.min.js"></script>
-		<script src="{{ site.baseurl }}/assets/js/init.js"></script>
-		<noscript>
-			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/skel.css" />
-			<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css" />
-		</noscript>
-		<!--[if lte IE 8]><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/ie/v8.css" /><![endif]-->
-	</head>
-	<body>
-	{{ content }}
-		<!-- Footer -->
-			<div id="footer">
-				<div class="container">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="{{ "/public/stylesheets/bs.css" | prepend:site.baseurl }}">
+    <link rel="stylesheet" href="{{"/public/stylesheets/styles.css" | prepend:site.baseurl }}">
+    <link rel="stylesheet" href="{{"/public/stylesheets/pygment_trac.css" | prepend:site.baseurl }}">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+      <link rel="icon" type="image/x-icon"  href="{{ "/favicon.ico" | prepend:site.baseurl }}" />
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  </head>
+  <body>
+    <div class="wrapper">
+        <section>
+          {% include title.html %}
 
-					<!-- Lists -->
-						<div class="row">
-						    <div class="4u">
-								<section>
-									<header class="major">
-										<h2>Contact Me</h2>
-										<span class="byline">I can help you.</span>
-									</header>
-									<ul class="contact">
-										<li>
-											<span class="address">Address</span>
-											<span>1234 Somewhere Road #4285 <br />Albuquerque, NM 00000</span>
-										</li>
-										<li>
-											<span class="mail">Mail</span>
-											<span><a href="#">max@permafuture.net</a></span>
-										</li>
-										<li>
-											<span class="phone">Phone</span>
-											<span>(000) 000-0000</span>
-										</li>
-									</ul>
-								</section>
-							</div>
-						</div>
+          {{ content }}
 
-					<!-- Copyright -->
-						<div class="copyright">
-                            C ontent: Max Anton Brewer
-							Design: <a href="http://templated.co">TEMPLATED</a> Images: <a href="http://unsplash.com">Unsplash</a> (<a href="http://unsplash.com/cc0">CC0</a>)
-							Jekyll Template: <a href="http://cloudcannon.com">Cloud Cannon</a>
-						</div>
-
-				</div>
-			</div>
-
-	</body>
+          {% include footer.html %}
+        </section>
+    </div>
+    </div>
+    <script src="{{ "/public/javascripts/jquery.min.js" | prepend:site.baseurl }}"></script>
+    <script src="{{ "/public/javascripts/bootstrap.min.js" | prepend:site.baseurl }}"></script>
+    {% include scripts.html %}
+  </body>
 </html>
