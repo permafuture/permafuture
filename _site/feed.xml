@@ -3,267 +3,37 @@
   <channel>
     <title>The Permafuturist</title>
     <description></description>
-    <link>http://permafuture.net/</link>
-    <atom:link href="http://permafuture.net/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 12 Dec 2016 15:03:33 -0800</pubDate>
-    <lastBuildDate>Mon, 12 Dec 2016 15:03:33 -0800</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 27 Mar 2017 20:28:40 -0700</pubDate>
+    <lastBuildDate>Mon, 27 Mar 2017 20:28:40 -0700</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
-        <title>Applied Evolution, part 6</title>
-        <description>&lt;h3 id=&quot;cultural-artifacts-are-also-things-an-interesting-example-is-law-the-concept-of-law-goes-back-to-gilgamesh-as-long-as-we-have-been-telling-stories-about-what-it-means-to-be-human-we-have-been-using-them-to-control-and-predict-future-humans&quot;&gt;Cultural artifacts are also things. An interesting example is law. The concept of law goes back to Gilgamesh. As long as we have been telling stories about what it means to be human, we have been using them to control and predict future humans.&lt;/h3&gt;
+        <title>My Bots</title>
+        <description>&lt;p&gt;&lt;strong&gt;I make bots. Sometimes I let them onto the internet.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Law is a form of code. If you don’t believe me, get a book on programming and the Vehicle Code of your state and look at them side by side. Law is a way of structuring human behavior. It is a coding language of memes: if (situation), then (human behavior). But it is only a thing inasmuch as it affects the material reality: with the development of writing. Writing is when we as humans really mastered memetic programming. As we will see, not all the things that we did with it were successful. Especially by the metrics of DNA-based life.&lt;/p&gt;
+&lt;p&gt;So far I don’t think they have taken over society — but then, why would they tell me?&lt;/p&gt;
 
-&lt;p&gt;Fast-forward a few thousand years. Watch empires rise and fall.&lt;/p&gt;
+&lt;h2 id=&quot;vuca&quot;&gt;VUCA&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;twitter.com/ars_vuca&quot;&gt;@ars_vuca&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Empires are a thing. A huge one, with many moving parts, and a visibile self-organizing effect on material reality. They have lives of their own. And they die. During the death of the Feudalist memeplex in Europe, some clever memetic engineers decided to build some things that wouldn’t die so easily. They invented what we now call the Corporation.&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Select new leaders with recognized competence as well as tapes containing only static.&lt;/p&gt;&amp;mdash; VUCA (@ars_vuca) &lt;a href=&quot;https://twitter.com/ars_vuca/status/831834401055072256&quot;&gt;February 15, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
-&lt;h2 id=&quot;the-corporation-is-an-entity-that-lives-for-its-own-gain-extracts-energy-from-any-possible-memeplex-it-can-tap-and-has-no-concern-for-human-well-being-outside-of-its-own-self-interest-if-someone-genetically-engineered-such-a-beast-today-it-would-be-called-a-monster-and-rightly-so&quot;&gt;The Corporation is an entity that lives for its own gain, extracts energy from any possible memeplex it can tap, and has no concern for human well-being outside of its own self-interest. If someone genetically engineered such a beast today, it would be called a monster. And rightly so.&lt;/h2&gt;
+&lt;p&gt;VUCA is an acronym that comes from military theory. It stands for Volatility, Uncertainty, Complexity and Ambiguity. The modern world is in a constant state of VUCA. The chaos outlined by the term suffuses our experience in a world that moves too fast to be comprehended by the human mind. Even our organizations and societies are too low-bandwidth to handle VUCA. My bot is an invocation of that chaotic power. @ars_vuca is infused with deep knowledge of chaos, strategy, and propaganda. VUCA tweets a 24/7 stream of arcane advice tailored to the insurrectionary wizards of our time.&lt;/p&gt;
 
-&lt;p&gt;Now, parasitic memes have been around for a long time. A lot of religions survive this way, by absorbing the host’s energy or even virally replicating through humans. Much has been said on the subject of viral ideas, but here we are more concerned with whole ecologies.&lt;/p&gt;
+&lt;h2 id=&quot;pkds-head&quot;&gt;PKD’s Head&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;twitter.com/pkd_head&quot;&gt;@pkd_head&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;The main parasite on human activity is the meme of debt. Debt is a promise to exchange future energy for current energy at a greater-than 1-to-1 ratio. The memetic parasite of debt and credit feeds the human need for instant gratification while disguising the true cost of its patronage. It builds and builds without regard for the finite resources of our solar system. Who will rake in all the cash on the final pot, when the Sun cools and expands and eats our planet like a pork rind? Maybe we’ll be on Mars or even Pluto by that point. But the point remains: &lt;em&gt;whoever is holding the bag at the end of the game is going to be mighty disappointed with the used-up rocks we have left.&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Machines are becoming more human, so to speak -- this is almost impossible to imagine.&lt;/p&gt;&amp;mdash; PKD&amp;#39;s Head (@pkd_head) &lt;a href=&quot;https://twitter.com/pkd_head/status/831595186245484544&quot;&gt;February 14, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
-&lt;p&gt;In the Corporation, Debt finally found a host body that didn’t need to cooperate with the needs of puny humans. Between the two, the planet is straddled by much greater beasts than any dinosaur. The irresponsible memeplexes plunder the Earth’s resources and transform them into something called “The Economy.  And we find ourselves in a great Crisis the likes of which humanity has never seen. Our global climate is heaving, the long-stored carbon deposits are sizzling into the atmosphere at alarming rates, and more people than ever before rely on ever-more fragile and unrealistic life support chains.&lt;/p&gt;
-
-&lt;h3 id=&quot;entropy-is-waiting-in-the-wings-rubbing-its-hands-and-cackling-with-glee&quot;&gt;Entropy is waiting in the wings, rubbing its hands and cackling with glee.&lt;/h3&gt;
-
-&lt;p&gt;And now we’ve created a new class of thing, networked digital computers. These are replicating memes by themselves, faster than we’ve ever imagined. It’s the way the internet works: all information you see on a screen had to be copied, with great fidelity, from every other place it’s stored on the internet. It also contains variability, with signal distortion and even cosmic rays creating mutations in the data. (Not to mention remix tech.) So the exponential explosion of information on the internet is an extension of the previous evolutionary floods. From chemistry to biology to culture to things, replicators keep evolving. And they keep evolving faster.&lt;/p&gt;
-
-&lt;p&gt;So there you have it. A myth for our time. Evolution and Entropy are the expressed principles of the universe. The Light and Dark, the Yang and Yin, the Implicit and Explicit. Through their polarity they give birth to the trinity of Variability, Selection and Transference. From the outer cosmos to the inner spaces of mind, Evolution self-organizes and Entropy unwinds.&lt;/p&gt;
-
-&lt;h2 id=&quot;evolution-birthed-us-entropy-would-eat-us-time-to-take-a-side&quot;&gt;Evolution birthed us. Entropy would eat us. Time to take a side.&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;end.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This bot thinks it is Philip K. Dick, the 20th century sci-fi author. PKD wrote a number of books that struggled with the nature of reality and self. In the 1970s he had an experience that he variously attributed to aliens, Gnostic gods or the malfunctioning of his own brain. In the early 2000s a group of engineers built a working robot that replicated PKD’s head and spoke from recordings of his own voice. On their flight to San Francisco to deliver PKD’s head to the Googlemen, the android was stolen. It never reappeared. I wondered what the internal experience of a robot who wasn’t sure if it was Philip K. Dick or a simulated consciousness would think about. Once activated, I felt pity for @pkd_head, but I can’t just turn him off — wouldn’t that be like killing him?&lt;/p&gt;
 </description>
-        <pubDate>Thu, 28 Jul 2016 00:00:00 -0700</pubDate>
-        <link>http://permafuture.net/posts/applied-evolution-6</link>
-        <guid isPermaLink="true">http://permafuture.net/posts/applied-evolution-6</guid>
-        
-        <category>evolution</category>
-        
-        <category>corporation</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Applied Evolution, part 5</title>
-        <description>&lt;h3 id=&quot;theres-an-old-story-youve-probably-heard-some-version-of-it&quot;&gt;There’s an old story. You’ve probably heard some version of it:&lt;/h3&gt;
-
-&lt;h2 id=&quot;once-for-the-first-time-in-the-history-of-the-world-a-man-bashed-in-his-brothers-head-with-a-rock&quot;&gt;Once, for the first time in the history of the world, a man bashed in his brother’s head with a rock.&lt;/h2&gt;
-
-&lt;p&gt;From then on, a third area of replicators existed on the planet: technology.&lt;/p&gt;
-
-&lt;p&gt;Techniques are a form of meme: knowing how to hit something with a rock is a simple repeatable action. But once memes were sufficiently complex, whole ecosystems of techniques formed around the selection pressure of the natural environment. People with a lot of water do things differently than people in a desert – not everything, but enough to create a selection pressure of cultural values and traditions. Thus societies begin to speciate.&lt;/p&gt;
-
-&lt;p&gt;A group of memes that form a collective organism is called a memeplex. A group of memes or memeplexes that are symbiotic with each other create a society. When societies clash, memeplexes evolve in reaction to the new selection pressures. Often they develop exotoxicity: the tendency to destroy other memeplexes for self-preservation.&lt;/p&gt;
-
-&lt;h3 id=&quot;so-whichever-brother-it-was-that-schismed-the-human-experiment-is-irrelevant-at-some-point-memes-became-weaponized-people-now-allowed-memes-to-select-their-genes-in-this-sense-war-is-a-complicated-form-of-human-husbandry-we-allow-cultural-replicators-to-decide-how-we-mate-and-when-we-die-we-are-no-longer-the-masters-of-memes-this-happened-at-least-10000-years-ago&quot;&gt;So whichever brother it was that schismed the human experiment is irrelevant. At some point, memes became weaponized. People now allowed memes to select their genes. In this sense, war is a complicated form of human husbandry. We allow cultural replicators to decide how we mate and when we die. We are no longer the masters of memes. This happened at least 10,000 years ago.&lt;/h3&gt;
-
-&lt;p&gt;Once memes gained equality with genes in the selection of humans, we were free to adapt much faster than before. We became cyborgs. A new type of replicator was formed, which I like to call &lt;em&gt;things&lt;/em&gt;. It rhymes with &lt;em&gt;genes&lt;/em&gt;, and &lt;em&gt;memes&lt;/em&gt;. Sort of.&lt;/p&gt;
-
-&lt;p&gt;Things are not just objects – rocks and skeletons and such had already existed. And they are not just ideas. They have physical forms, which evolve and need energy to maintain their existence. They are somewhere in-between. Each thing comes with a whole directory of techniques: you can write with a pencil, but you can also use it to measure a bra size or kill a person. Or chew on it. The techniques are implied in the physical form of the thing, not just held in culture. Tables make sense because humans are a certain size and we fold in a certain way. You don’t need to be told how to use a table. But, if you had never seen one before, you might be hard-pressed to imagine it from first principles.&lt;/p&gt;
-
-&lt;h2 id=&quot;things-have-lives-of-their-own&quot;&gt;Things have lives of their own.&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;to be continued…&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 21 Jul 2016 00:00:00 -0700</pubDate>
-        <link>http://permafuture.net/posts/applied-evolution-5</link>
-        <guid isPermaLink="true">http://permafuture.net/posts/applied-evolution-5</guid>
-        
-        <category>evolution</category>
-        
-        <category>things</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Applied Evolution, part 4</title>
-        <description>&lt;h2 id=&quot;organic-life-is-not-the-limit-of-evolution&quot;&gt;Organic life is not the limit of Evolution.&lt;/h2&gt;
-
-&lt;p&gt;The Cosmic Trickster fooled around for a few billion years, coding different organisms out of DNA, searching for the next scion of its heroic battle against Entropy. Finally, it came upon a windfall. Some of the thumb-bearing bipedal hairless mammal things invented grunting.&lt;/p&gt;
-
-&lt;h3 id=&quot;grunting-in-itself-was-not-the-great-leap-but-as-the-grunters-gathered-into-troops-it-created-a-sort-of-grunt-pool-a-fertile-broth-of-actions-and-sounds-that-could-undergo-transference-variation-and-selection-thus-was-born-the-second-replicator-of-earth-memes&quot;&gt;Grunting in itself was not the great leap, but as the grunters gathered into troops it created a sort of grunt-pool. A fertile broth of actions and sounds that could undergo transference, variation, and selection. Thus was born the second replicator of Earth: memes.&lt;/h3&gt;
-
-&lt;p&gt;Language, culture, a sense of time: all conferred on our species by the power of imitation. Once we were capable of repeating actions and sounds made by others, and capable of imitating them incorrectly whether by accident or on purpose, all we needed was the pressures of biological existence to select which memes (from &lt;em&gt;mimesis&lt;/em&gt;, to copy) reproduced and which didn’t.&lt;/p&gt;
-
-&lt;p&gt;The process of meme selection happens much faster than the process of genetic selection. Thus were we introduced to  temporal thinking, rare or absent in all other Earthlings. We learned that we could change our behaviors, our words, our thoughts, and become immediately more adapted to our environment – without waiting for the next generation.&lt;/p&gt;
-
-&lt;p&gt;Of course Evolution rejoiced in this meme-pool. Replicators that work even faster than DNA? Unheard of, at least on this planet. So it got elbow-deep and started tinkering. It took a while for Entropy to catch up. It was having enough trouble dragging the individual organisms of Earth into death. It could barely keep up with the speed of replication on the DNA level (although the occasional asteroid impact had been pretty effective). This new profusion of replicators was, for a time, unchecked. Then the meme-pool got big enough to support predators and parasites, and Entropy got its chips in the game.&lt;/p&gt;
-
-&lt;p&gt;Like any ecology of Earthlings, memes have niches. Some are producers, some are consumers, some are predators, and some are parasites. These last two niches tend to evolve later, as they need simpler forms of life to package energy into hyper-dense formats like meat or sugar. They rely on whole chains or webs of connection between other critters. It took a while for these to evolve in the memetic world, the noosphere or world of ideas. Once they did, they began to wreak havoc on the established niches of the mind – and of the world at large.&lt;/p&gt;
-
-&lt;h2 id=&quot;some-ideas-through-their-human-proxies-have-extinguished-species-and-destroyed-whole-ecosystems&quot;&gt;Some ideas, through their human proxies, have extinguished species and destroyed whole ecosystems.&lt;/h2&gt;
-
-&lt;p&gt;That is the danger a higher-speed replicator can pose to a lower-speed. By moving so much faster, it fails to maintain or even see the larger scales of time. This is why humans are so important: we are the shear zone where these two speeds of evolution interact. We have been for thousands of years, since language and culture began.&lt;/p&gt;
-
-&lt;p&gt;But an interesting thing happened on the way to the Now. We weren’t just apes with incredible voiceboxes. We also had thumbs. And that made all the difference, at least for the memes.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;to be continued…&lt;/em&gt;&lt;/p&gt;
-
-</description>
-        <pubDate>Thu, 14 Jul 2016 00:00:00 -0700</pubDate>
-        <link>http://permafuture.net/posts/applied-evolution-4</link>
-        <guid isPermaLink="true">http://permafuture.net/posts/applied-evolution-4</guid>
-        
-        <category>evolution</category>
-        
-        <category>memes</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Applied Evolution, part 3</title>
-        <description>&lt;h3 id=&quot;so-it-was-that-a-little-yellow-star-on-the-edge-of-a-spiral-galaxy-birthed-a-handful-of-gas-giants-and-rocky-dwarf-planets-one-of-those-a-water-covered-ball-of-iron-protected-by-a-shield-of-asteroids-and-a-jovial-bouncer-spun-and-whirled-and-sloshed-into-a-sort-of-broth-this-broth-created-the-selection-environment-in-which-different-elements-could-conjoin-into-chemicals&quot;&gt;So it was that a little yellow star on the edge of a spiral galaxy birthed a handful of gas giants and rocky dwarf planets. One of those, a water-covered ball of iron protected by a shield of asteroids and a jovial bouncer, spun and whirled and sloshed into a sort of broth. This broth created the selection environment in which different elements could conjoin into chemicals.&lt;/h3&gt;
-
-&lt;p&gt;My favorite theory for how this happened: clay deposits in riverbeds, which are a sort of replicator themselves. The particular composition of any given silica clay defines whether other clays will stick to it and join its composition. The more successful replicators also transfer their composition downstream, sending out envoys to colonize similar niches in the river. Clay deposits are layered on a molecular scale, like 3d printing at the smallest chemical level. As the silicon substrate builds up, layer by layer, other elements are trapped within it. These are stacked together so close that they form composite molecules. Of these uncountable molecules, one finds the adaptation that allows it to copy itself. This goes on to form the essence of all nucleic acids, the replicators of ‘life’ as we know it: RNA and DNA.&lt;/p&gt;
-
-&lt;p&gt;So now we have three levels of replicators: universes, heavenly bodies, and life. There may be life on other planets. Planets may be alive, even, in some way we don’t understand. But as far as we can tell, Earth is unique. The atmosphere itself exhibits a key feature of life: negentropic homeostasis. Earth is consistently more temperate and has more reactive gases in the atmosphere than the laws of the universe otherwise allow.&lt;/p&gt;
-
-&lt;h2 id=&quot;we-are-an-exception-and-we-have-been-for-over-4-billion-years&quot;&gt;We are an exception. And we have been, for over 4 billion years.&lt;/h2&gt;
-
-&lt;p&gt;This is the Gaia hypothesis: &lt;em&gt;life on the planet has been creating and maintaining the conditions for life on the planet&lt;/em&gt;. There is no other planet we’ve seen in all the universe that maintains this much oxygen in its atmosphere. According to Entropy, the entire planet should be 
-rust or fire any second now.&lt;/p&gt;
-
-&lt;p&gt;But the simple cyanobacteria in the ocean, some of the earliest Earthlings, constantly balance the atmosphere through negative and positive feedback loops. When these creatures evolved from the basic nucleic acids, they caused the first great pollution crisis on on the planet. They filled the atmosphere with oxygen – causing the first great mass extinction. All Earthlings had to adapt to this situation, and they did. Anaerobic bacteria learned to hide in the guts of air-breathing creatures, which produced carbon dioxide to replenish the fuels needed by the oxygen-producers. A huge weird bootstrapping of life exploded onto the scene. Mitochondria merged with their host cells and created another form of energy. The whole process of Earthling evolution has been an interplay of adaptations, competition, and symbiosis.&lt;/p&gt;
-
-&lt;p&gt;This organic chemical replicator called DNA (and RNA and mDNA etc) had an advantage over the other replicators like planets and suns. It works on a faster. By many orders of magnitude. Though Evolution never lost its interest in the other places in the Universe, it did have much more opportunity to play around on Earth.&lt;/p&gt;
-
-&lt;p&gt;And play around it did. In four billion years it did R&amp;amp;D on countless variations of life. We can think of some of the weirder ones today: trilobytes, barnacles, long-necked dinosaurs with noses on their foreheads. But most of the trials left no evidence, or happened at scales we’re only beginning to explore.&lt;/p&gt;
-
-&lt;p&gt;Earth is the outer limit of Applied Evolution, at least for now. We’re not yet to the point where we can apply planet-scale or solar-scale evolution. We may get there soon – we do have quite a few planets and rocky moons to fool around with – but not if we don’t get our house in order first. We need to apply evolution at the scales of Gaia and smaller. That’s where we can use this knowledge for the practical purpose of surviving the Sixth Mass Extinction. After we’re past the bottleneck, then we’ll worry about sporing other planets.&lt;/p&gt;
-
-&lt;h3 id=&quot;after-all-we-may-not-be-a-successful-species-its-too-early-to-tell&quot;&gt;After all, we may not be a successful species. It’s too early to tell.&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;to be continued…&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 07 Jul 2016 00:00:00 -0700</pubDate>
-        <link>http://permafuture.net/posts/applied-evolution-3</link>
-        <guid isPermaLink="true">http://permafuture.net/posts/applied-evolution-3</guid>
-        
-        <category>evolution</category>
-        
-        <category>DNA</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Applied Evolution, part 2</title>
-        <description>&lt;h2 id=&quot;once-nothing-exploded-into-everything&quot;&gt;Once, nothing exploded into everything.&lt;/h2&gt;
-
-&lt;p&gt;That is the current limit of scientific knowledge about the dawn of time. It’s also the essence of most mystery traditions. We can only speculate about what nothing was doing before it was something.&lt;/p&gt;
-
-&lt;p&gt;As this everything exploded, it expanded faster than it expanded. (That’s not exactly true, but the particulars of cosmic inflation are a complicated story for another time.)&lt;/p&gt;
-
-&lt;p&gt;Let us say, empty space expanded faster than information. This is why we can only see 13.6 billion light-years in any direction. Not because we are at the center of the universe, but because information takes time to cross space. And we’ve only had 13.6 billion years for it to get here. This state of affairs was, of course, initiated by Entropy.&lt;/p&gt;
-
-&lt;p&gt;So each zone of space seethes with the same uniform hydrogen fog. But in the expanding process, a texture forms in spacetime. Like stretch marks in skin, or the cracked surface of a carrot cake. Irregularities appear as some parts of spacetime stretch faster than others. Entropy doesn’t mind this texturing. In a sense, the more complicated and nonsensical the universe is, the more Entropy wins. The few fundamental forces of the universe (gravity, electromagnetism, strong and weak nuclear) are so diffuse that they take incredible amounts of time to accrete.&lt;/p&gt;
-
-&lt;p&gt;Unfortunately for Entropy, incredible amounts of time were all we had. That accretion, combined with the variations in space texture, gave birth to Evolution. We (evolving beings) could innovate new combinations of atoms at different levels of gravity, heat and light. And we could propagate the successful ones forward in time.&lt;/p&gt;
-
-&lt;p&gt;This was how mass formed, how galaxies began to swirl around supermassive black holes, how dense regions of hydrogen compacted so heavily they began to undergo fusion. How heavy elements 
-formed, how they balled up into planets both solid and gaseous. Universes evolved, selecting for ones where irregularities allowed for complex elements. Planets selected for coherent orbits – if they didn’t, they were bound to smash into each other or tear each other apart. Suns selected for a Goldilocks zone between superdense implosion and cool diffusion.&lt;/p&gt;
-
-&lt;h3 id=&quot;this-is-all-speculative-of-course-as-we-dont-have-any-records-of-pre-prehistory-but-from-the-clues-we-have-found-at-the-scene-of-the-crime-this-is-a-pretty-good-reconstruction-of-the-way-evolution-broke-into-the-house-of-entropy&quot;&gt;This is all speculative, of course, as we don’t have any records of pre-prehistory. But from the clues we have found at the scene of the crime, this is a pretty good reconstruction of the way Evolution broke into the house of Entropy.&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;to be continued…&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 01 Jul 2016 00:00:00 -0700</pubDate>
-        <link>http://permafuture.net/posts/applied-evolution-2</link>
-        <guid isPermaLink="true">http://permafuture.net/posts/applied-evolution-2</guid>
-        
-        <category>evolution</category>
-        
-        <category>planet</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Applied Evolution, part 1</title>
-        <description>&lt;h2 id=&quot;evolution-were-in-it-were-of-it-we-cant-escape-it-and-it-defines-more-about-our-reality-than-we-usually-admit&quot;&gt;Evolution. We’re in it. We’re of it. We can’t escape it, and it defines more about our reality than we usually admit.&lt;/h2&gt;
-
-&lt;p&gt;I’m here to tell you a story. It’s the story of how we got to be where we are. More importantly, it’s the only story that’s going to help us predict where we’re headed. Other narratives claim to do so, but when we look deeper we see that they benefit only those Corporate Death Cultists who have the money and influence to propagate them.&lt;/p&gt;
-
-&lt;p&gt;This story – the story of Applied Evolution – fits with the actual behaviors of life, of people and of ideas. When we apply &lt;em&gt;cui bono&lt;/em&gt; to  Evolution, we see that the beneficiaries of this narrative include all the beings on this planet. Thus we don’t need a vast network of subsidiaries to reproduce our story. It is always being produced by our entire environment. Welcome to the world you live in.&lt;/p&gt;
-
-&lt;h3 id=&quot;evolution-isnt-that-old-history&quot;&gt;Evolution? Isn’t that old history?&lt;/h3&gt;
-
-&lt;p&gt;Aren’t we done with the process of evolving, now that we have culture? Well, no. That’s the short answer. And the long answer doesn’t have to rely on passe notions of human potential and personal evolution via New Age channelers. Evolution is not only happening without us, it is happening within us. We are all products of evolution, from the planetary level to the subcellular.&lt;/p&gt;
-
-&lt;p&gt;Evolution is the invisible hand of the universe. It’s the mechanism that God flipped the switch on thirteen billion years ago. Or it’s an impersonal and incidental set of circumstances that only seem to exist  in our universe due to the anthropic principle. Who cares. It’s not as important why it’s happening, or if it is inevitable or a fluke. What’s important for our purposes – practical, Applied purposes – is that it has been happening, it is happening, it will be happening.&lt;/p&gt;
-
-&lt;p&gt;Let me give you a little context on your place in the universe. Remember, things happen all the time but they happen on different scales. So the pattern we’ll see is self-similar. It repeats at different scales within its own structure. In fact that’s one of the reasons it’s so effective. We’ll take the story of our Universe, the story of Sol system, the story of Earthlings, and the stories of humanity, language, and technology as a nested story in which the protagonist is this negentropic principle called Evolution. But first, we’ll need a little bit of character background.&lt;/p&gt;
-
-&lt;h3 id=&quot;who-is-this-enigmatic-hero-what-secrets-and-mysteries-hide-underneath-the-mask-of-evolution-what-challenges-does-it-face-and-what-advantages-does-it-have-toward-overcoming-them&quot;&gt;Who is this enigmatic hero? What secrets and mysteries hide underneath the mask of evolution? What challenges does it face and what advantages does it have toward overcoming them?&lt;/h3&gt;
-
-&lt;p&gt;Evolution is the emergent interaction of replicators. Replicators are any piece of information that behaves in a certain way: namely, replicating. It’s a generic term for a wide variety of mathematical attractors, but the most obvious one in current evolutionary theory is the gene. The gene is a single piece of deoxyribonucleic acid, a letter in the language of life. Many genes, hundreds to millions, compose any single organism. Each gene is competing against the rest of the candidate genes whenever sexual recombination happens.&lt;/p&gt;
-
-&lt;h2 id=&quot;two-organisms-mating-and-producing-an-offspring-is-like-remixing-two-songs-together-jay-zs-black-album-and-the-beatles-white-album-created-dangermouses-grey-album-remixing-and-repeating-in-systems-like-this-is-the-game-of-evolution&quot;&gt;Two organisms mating and producing an offspring is like remixing two songs together. Jay-Z’s Black Album and the Beatles’ White Album created Dangermouse’s Grey Album. Remixing and repeating in systems like this is the game of evolution.&lt;/h2&gt;
-
-&lt;p&gt;There’s a simple scientific definition of replicators: transference + variability + selection. Any piece of information which can be copied, changed, and compared will be subject to evolution. Replicators come in all shapes or sizes. They’re the substrate through which the evolutionary current flows. The main thing about replicators is that they strive to replicate and adapt in a situation that is partly, but not entirely, of their own making. The situation itself is the selector. The environment keeps setting new parameters.&lt;/p&gt;
-
-&lt;p&gt;So this environment, the setting for our story, is also the villian. A classic man vs. nature plot, as drama theorists would have it. Except that man vs. nature is only one of the fractal conflicts played out here. On the grand and cosmic scale, Evolution is pitted against its sibling/spouse/nemesis, Entropy.&lt;/p&gt;
-
-&lt;p&gt;Entropy may be the older brother here. Obviously it gets harder to tell, the futher we go in the macro dimension. Certainly most of the observable universe is following the Arrow of Time, the Dark One, the Cold Fuzz. All the planets, stars and galaxies we see are circling the drain. In some billions of years, if Entropy gets its way, the entire universe will be a uniform pudding of used-up hydrogen atoms.&lt;/p&gt;
-
-&lt;h3 id=&quot;fortunately-we-have-a-champion-so-let-us-begin-our-legend-where-legends-begin-at-the-dawn-of-time&quot;&gt;Fortunately, we have a champion. So let us begin our legend where legends begin: at the dawn of time.&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;to be continued…&lt;/em&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 25 Jun 2016 00:00:00 -0700</pubDate>
-        <link>http://permafuture.net/posts/applied-evolution-1</link>
-        <guid isPermaLink="true">http://permafuture.net/posts/applied-evolution-1</guid>
-        
-        <category>evolution</category>
-        
-        <category>entropy</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Chaos Makes the World</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;“Turning and turning in the widening gyre&lt;br /&gt;
-The falcon cannot hear the falconer&lt;br /&gt;
-Things fall apart&lt;br /&gt;
-The center cannot hold&lt;br /&gt;
-Mere anarchy is loosed upon the world.”&lt;br /&gt;
-  -Everyone ever&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;chaos-makes-the-world-this-has-been-known-to-people-throughout-time-tiamat-shiva-eris-coyote-the-trickster-giveth-and-the-trickster-sure-fucking-taketh-away-so-be-it&quot;&gt;Chaos makes the world. This has been known to people throughout time. Tiamat, Shiva, Eris, Coyote. The Trickster giveth and the Trickster sure fucking taketh away. So be it.&lt;/h3&gt;
-
-&lt;p&gt;What is the meaning of chaos? Chaos is the undiluted raw static of the world, the terrible blistering changingness that permeates every sensation and gives rise to every conflict. Chaos is the force of entropy. It draws us all toward the cold pudding of heat death, the uniform sludge of all information at once indistinguished. And yet it also gives life, and form, and change: without that entropy, life would not evolve. Without death and mutation there would be naught on this planet except a vast prokaryote soup. So chaos also stirs our greatest feelings of fear, because it is change. It threatens the self. It whispers that beyond my mouth and my ears, beyond my cell walls, beyond the walls of my cell, the universe cares nothing.&lt;/p&gt;
-
-&lt;p&gt;But chaos does not play games. Humans play games. Games are the greatest human invention, the pursuit of meaning in a chthulic niverse. Games are the co-creation of beauty and form for no reason other than the absurd thrownness of our condition. All human activity takes the form of games, at least in the realm of inter-action.  Chaos allows us to play our little human games, and we get away with a lot of meaning-creation. We can’t defy the waterfall of time, but we can play in it.&lt;/p&gt;
-
-&lt;h3 id=&quot;so-human-reality-is-not-chaos-chaos-is-the-blind-spinning-mouth-at-the-center-of-our-galaxy-chaos-is-the-infuriated-fusion-in-our-local-star-chaos-is-the-whirling-storms-of-dead-venus&quot;&gt;So human reality is not chaos. Chaos is the blind spinning mouth at the center of our galaxy. Chaos is the infuriated fusion in our local star. Chaos is the whirling storms of dead Venus.&lt;/h3&gt;
-
-&lt;p&gt;Earth, that blue gem, that insane teeming jungle, is still breathing. Gaia still self-regulates her temperature three billion years into her fruiting. The biosphere and the humans who emerge from it are an oasis of life in the universe. Lichen growing on the gears of a machine.&lt;/p&gt;
-
-&lt;p&gt;So life is not chaos. Life is making meaning. Life is writing stories with carbon. Humans, and all our games, are subplots in a larger story of life vs. chaos. The stories we tell to make meaning out of our lives, make the meaning of our lives.&lt;/p&gt;
-
-&lt;p&gt;The work of the wizard is to tell the story of life vs chaos, to warp reality in favor of the self-organizing principle. To gather bubbles of chaos and compress them into gems of meaning. And to pass those stories on. To give them a life of their own. To let them grow, instead of dissolve back into quantum froth.&lt;/p&gt;
-
-&lt;h3 id=&quot;this-is-the-work-of-the-wizard&quot;&gt;This is the work of the wizard.&lt;/h3&gt;
-</description>
-        <pubDate>Wed, 18 May 2016 00:00:00 -0700</pubDate>
-        <link>http://permafuture.net/posts/chaos-world</link>
-        <guid isPermaLink="true">http://permafuture.net/posts/chaos-world</guid>
-        
-        <category>chaos</category>
-        
-        <category>gaia</category>
-        
-        <category>wizard</category>
+        <pubDate>Thu, 16 Feb 2017 00:00:00 -0800</pubDate>
+        <link>http://localhost:4000/posts/my-bots</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/my-bots</guid>
         
         
       </item>
