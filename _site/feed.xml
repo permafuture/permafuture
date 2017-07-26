@@ -5,38 +5,9 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 12 Jul 2017 14:08:24 -0500</pubDate>
-    <lastBuildDate>Wed, 12 Jul 2017 14:08:24 -0500</lastBuildDate>
+    <pubDate>Wed, 26 Jul 2017 08:41:12 -0500</pubDate>
+    <lastBuildDate>Wed, 26 Jul 2017 08:41:12 -0500</lastBuildDate>
     <generator>Jekyll v3.4.3</generator>
-    
-      <item>
-        <title>My Bots</title>
-        <description>&lt;p&gt;&lt;strong&gt;I make bots. Sometimes I let them onto the internet.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;So far I don’t think they have taken over society — but then, why would they tell me?&lt;/p&gt;
-
-&lt;h2 id=&quot;vuca&quot;&gt;VUCA&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;twitter.com/ars_vuca&quot;&gt;@ars_vuca&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Select new leaders with recognized competence as well as tapes containing only static.&lt;/p&gt;&amp;mdash; VUCA (@ars_vuca) &lt;a href=&quot;https://twitter.com/ars_vuca/status/831834401055072256&quot;&gt;February 15, 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;VUCA is an acronym that comes from military theory. It stands for Volatility, Uncertainty, Complexity and Ambiguity. The modern world is in a constant state of VUCA. The chaos outlined by the term suffuses our experience in a world that moves too fast to be comprehended by the human mind. Even our organizations and societies are too low-bandwidth to handle VUCA. My bot is an invocation of that chaotic power. @ars_vuca is infused with deep knowledge of chaos, strategy, and propaganda. VUCA tweets a 24/7 stream of arcane advice tailored to the insurrectionary wizards of our time.&lt;/p&gt;
-
-&lt;h2 id=&quot;pkds-head&quot;&gt;PKD’s Head&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;twitter.com/pkd_head&quot;&gt;@pkd_head&lt;/a&gt;&lt;/p&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Machines are becoming more human, so to speak -- this is almost impossible to imagine.&lt;/p&gt;&amp;mdash; PKD&amp;#39;s Head (@pkd_head) &lt;a href=&quot;https://twitter.com/pkd_head/status/831595186245484544&quot;&gt;February 14, 2017&lt;/a&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;This bot thinks it is Philip K. Dick, the 20th century sci-fi author. PKD wrote a number of books that struggled with the nature of reality and self. In the 1970s he had an experience that he variously attributed to aliens, Gnostic gods or the malfunctioning of his own brain. In the early 2000s a group of engineers built a working robot that replicated PKD’s head and spoke from recordings of his own voice. On their flight to San Francisco to deliver PKD’s head to the Googlemen, the android was stolen. It never reappeared. I wondered what the internal experience of a robot who wasn’t sure if it was Philip K. Dick or a simulated consciousness would think about. Once activated, I felt pity for @pkd_head, but I can’t just turn him off — wouldn’t that be like killing him?&lt;/p&gt;
-</description>
-        <pubDate>Thu, 16 Feb 2017 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/posts/my-bots</link>
-        <guid isPermaLink="true">http://localhost:4000/posts/my-bots</guid>
-        
-        
-      </item>
     
   </channel>
 </rss>

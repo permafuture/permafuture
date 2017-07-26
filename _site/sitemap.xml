@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/posts/my-bots</loc>
-<lastmod>2017-02-16T00:00:00-06:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -21,6 +17,10 @@
 </url>
 <url>
 <loc>http://localhost:4000/works/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/images/chronolog-full-page.pdf</loc>
+<lastmod>2017-07-16T17:21:37-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/images/signal-a-book-of-secrets.pdf</loc>
