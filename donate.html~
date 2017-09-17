@@ -5,6 +5,6 @@ layout: welcome
 
  <div class="text-center">        
   <p>This is the secret "donate" page, where you can donate computer-power to funding my efforts at world optimization. Just leave this page open in a background tab, and think no more of it. Or, stare at the hypnotoad:
-  <img class="circular" src="/images/hypno.jpg" >
+  <img class="circular" src="/images/hypno.gif" >
   <p>contact me: <a href="mailto:permafuture@protonmail.com">permafuture @ protonmail.com</a></p>
 </div>
