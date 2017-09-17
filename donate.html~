@@ -1,0 +1,9 @@
+---
+layout: welcome
+
+---
+
+ <div class="text-center">        
+  <img class="circular" src="/images/stonehenge.jpg" >
+  <p>contact me: <a href="mailto:permafuture@protonmail.com">permafuture @ protonmail.com</a></p>
+</div>
