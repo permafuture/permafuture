@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/permafuture
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://permafuture.net
+  * I am permafuture (https://keybase.io/permafuture) on keybase.
+  * I have a public key ASBVmdNctdYX9-wvq5x63c7EoiWtoXLEnQEU5sKth3mcHwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205599d35cb5d617f7ec2fab9c7addcec4a225ada172c49d0114e6c2ad87799c1f0a",
+      "host": "keybase.io",
+      "kid": "01205599d35cb5d617f7ec2fab9c7addcec4a225ada172c49d0114e6c2ad87799c1f0a",
+      "uid": "9b068fed3b955d0dc690fe5d1dea8919",
+      "username": "permafuture"
+    },
+    "merkle_root": {
+      "ctime": 1508006896,
+      "hash": "d13e8cfecc51d23e246a636757fb6b03eb0042bcbe73f3412de2770e06c089b4666d08f255fd1e628e9ab35dab3b4a74c341de92ebed62820502ad0403a5ad11",
+      "hash_meta": "5dc6d20e0fa4b2391e28a61c1dfd0d1811e1a4978f7470d6f19286c26bc1ca94",
+      "seqno": 1578602
+    },
+    "service": {
+      "hostname": "permafuture.net",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1508006905,
+  "expire_in": 504576000,
+  "prev": "32d2d7908660d52148d78ba32fc2cc2f33ab97c1794b9990ad23d0264f162e59",
+  "seqno": 27,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgVZnTXLXWF/fsL6ucet3OxKIlraFyxJ0BFObCrYd5nB8Kp3BheWxvYWTFA0p7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNTU5OWQzNWNiNWQ2MTdmN2VjMmZhYjljN2FkZGNlYzRhMjI1YWRhMTcyYzQ5ZDAxMTRlNmMyYWQ4Nzc5OWMxZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNTU5OWQzNWNiNWQ2MTdmN2VjMmZhYjljN2FkZGNlYzRhMjI1YWRhMTcyYzQ5ZDAxMTRlNmMyYWQ4Nzc5OWMxZjBhIiwidWlkIjoiOWIwNjhmZWQzYjk1NWQwZGM2OTBmZTVkMWRlYTg5MTkiLCJ1c2VybmFtZSI6InBlcm1hZnV0dXJlIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTA4MDA2ODk2LCJoYXNoIjoiZDEzZThjZmVjYzUxZDIzZTI0NmE2MzY3NTdmYjZiMDNlYjAwNDJiY2JlNzNmMzQxMmRlMjc3MGUwNmMwODliNDY2NmQwOGYyNTVmZDFlNjI4ZTlhYjM1ZGFiM2I0YTc0YzM0MWRlOTJlYmVkNjI4MjA1MDJhZDA0MDNhNWFkMTEiLCJoYXNoX21ldGEiOiI1ZGM2ZDIwZTBmYTRiMjM5MWUyOGE2MWMxZGZkMGQxODExZTFhNDk3OGY3NDcwZDZmMTkyODZjMjZiYzFjYTk0Iiwic2Vxbm8iOjE1Nzg2MDJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoicGVybWFmdXR1cmUubmV0IiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4zNCJ9LCJjdGltZSI6MTUwODAwNjkwNSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiIzMmQyZDc5MDg2NjBkNTIxNDhkNzhiYTMyZmMyY2MyZjMzYWI5N2MxNzk0Yjk5OTBhZDIzZDAyNjRmMTYyZTU5Iiwic2Vxbm8iOjI3LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQL9TRpIkjjAkZ0vcYnaOlGCd2/xJ13qSpdepBRYuz6aiDBJrxqzEeC14Bcox3gh2Fc2ZcI5ct7tmdnHYPAQDaQioc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCCeebemZeU6w5+jxcmpxU+4J3R1/d8t24L+q58H11WDPqN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/permafuture
+
+==================================================================
