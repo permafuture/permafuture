@@ -6,19 +6,6 @@ layout: page
 
  Some of my creations can be experienced through your computer. I like to name them using CAPITAL LETTERS. Here is a sampling: 
 
-_______
-
-## SIGNAL: A Book of Secrets 
-
-
-  [![SIGNAL excerpt](/images/signal-excerpt.png){:class="img-responsive"}](/images/signal-a-book-of-secrets.pdf)
-
-  SIGNAL is a dictionary-dream, a catalog for an ethereal Library, a virus of language. It may be read front to back or side to side.
-
-  Built using bibliomancy and sortilege while encamped atop a remote mountain. Known to have an indelible effect on the mind of the reader. 
-
-  You can download a PDF copy [here](/images/signal-a-book-of-secrets.pdf). Best read in physical format. To print, set full-page duplexing.
-
 _____
 
 ## SCIOPS: A Cogsec Newsletter
@@ -33,9 +20,32 @@ _____
   {% include tinyletter.html %}
 _______
 
+## SIGNAL: A Book of Secrets 
+
+
+  [![SIGNAL excerpt](/images/signal-excerpt.png){:class="img-responsive"}](/images/signal-a-book-of-secrets.pdf)
+
+  SIGNAL is a dictionary-dream, a catalog for an ethereal Library, a virus of language. It may be read front to back or side to side.
+
+  Built using bibliomancy and sortilege while encamped atop a remote mountain. Known to have an indelible effect on the mind of the reader. 
+
+  You can download a PDF copy [here](/images/signal-a-book-of-secrets.pdf). Best read in physical format. To print, set full-page duplexing.
+
+_______
+
 ## Artifical People 
 
   I make bots. Sometimes I let them onto the internet. So far I don’t think they have taken over the world — but then, why would they tell me?
+
+### [@pkd_head](http://twitter.com/pkd_head)
+
+  {% include pkd.html %}
+
+  This bot thinks it is Philip K. Dick, the 20th century sci-fi author. PKD wrote a number of books that struggled with the nature of reality and self. In the 1970s he had an experience that he variously attributed to aliens, Gnostic gods or the malfunctioning of his own brain. In the early 2000s a group of engineers built a working robot that replicated PKD’s head and spoke from recordings of his own voice. On their flight to San Francisco to deliver PKD’s head to the Googlemen, the android was stolen. It never reappeared. 
+
+  I wondered what the internal experience of a robot who wasn’t sure if it was Philip K. Dick or a simulated consciousness would think about. Once activated, I felt pity for @pkd_head, but I can’t just turn him off — wouldn’t that be like killing him?
+
+
 
 ### [@ars_vuca](http://twitter.com/ars_vuca)
 
@@ -47,10 +57,4 @@ _______
 
 
 
-### [@pkd_head](http://twitter.com/pkd_head)
 
-  {% include pkd.html %}
-
-  This bot thinks it is Philip K. Dick, the 20th century sci-fi author. PKD wrote a number of books that struggled with the nature of reality and self. In the 1970s he had an experience that he variously attributed to aliens, Gnostic gods or the malfunctioning of his own brain. In the early 2000s a group of engineers built a working robot that replicated PKD’s head and spoke from recordings of his own voice. On their flight to San Francisco to deliver PKD’s head to the Googlemen, the android was stolen. It never reappeared. 
-
-  I wondered what the internal experience of a robot who wasn’t sure if it was Philip K. Dick or a simulated consciousness would think about. Once activated, I felt pity for @pkd_head, but I can’t just turn him off — wouldn’t that be like killing him?

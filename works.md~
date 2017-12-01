@@ -6,6 +6,18 @@ layout: page
 
  Some of my creations can be experienced through your computer. I like to name them using CAPITAL LETTERS. Here is a sampling: 
 
+_____
+
+## SCIOPS: A Cogsec Newsletter
+
+
+  [![SCIOPS excerpt](/images/sciops-excerpt.png){:class="img-responsive"}](http://tinyletter.com/sciops)
+
+  SCIOPS is a weekly newsletter where I ruminate on cognitive security: practical defense against the dark arts of mind manipulation and constant surveillance.
+ 
+  You can view the [Archive](http://tinyletter.com/sciops/archive) or subscribe right now:
+
+  {% include tinyletter.html %}
 _______
 
 ## SIGNAL: A Book of Secrets 
@@ -19,18 +31,6 @@ _______
 
   You can download a PDF copy [here](/images/signal-a-book-of-secrets.pdf). Best read in physical format. To print, set full-page duplexing.
 
-_____
-
-## SCIOPS: A Cogsec Newsletter
-
-
-  [![SCIOPS excerpt](/images/sciops-excerpt.png){:class="img-responsive"}](http://tinyletter.com/sciops)
-
-  SCIOPS is a weekly newsletter where I ruminate on cognitive security: practical defense against the dark arts of mind manipulation and constant surveillance.
- 
-  You can view the [Archive](http:/tinyletter.com/sciops/archive) or subscribe right now:
-
-  {% include tinyletter.html %}
 _______
 
 ## Artifical People 
