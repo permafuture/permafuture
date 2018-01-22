@@ -1,12 +1,15 @@
 /* main */
 
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville|Lusitana');
+
 body {
   padding: 0px 0 20px 0px;
   margin: 0px;
-  font: 16px/1.5 'Open Sans', sans-serif;
-  color: #A3BFC6 ;
+  text-align: justify;
+  font: 18px/1.5 'Lusitana', serif;
+  color: #454545 ;
   font-weight: normal;
-  background: #222A30;
+  background: #eaeaea;/
   -webkit-font-smoothing: subpixel-antialiased;
 }
 
@@ -15,9 +18,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#85FF9E;
+  color:#985f99;
   margin: 0 0 10px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Libre Baskerville', serif;
   font-weight: normal;
 }
 
@@ -40,19 +43,19 @@ h2 {
 h3 {
   font-size: 18px;
   line-height: 24px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Lusitana', serif;
   font-weight: normal;
   color: #b6b6b6;
 }
 
 a {
-  color: #49B1F7;
+  color: #000500;
   font-weight: 400;
   text-decoration: none;
 }
 
 a:hover {
-  color: #85FF9E;
+  color: #69246b;
 }
 
 a:hover, a:active, a:focus, a:visited  {
@@ -78,7 +81,7 @@ a#so-ic{
 }
 
 strong {
-  font-family: 'OpenSansBold', sans-serif;
+  font-family: 'Lusitana', serif;
   font-weight: normal;
 }
 
@@ -106,29 +109,29 @@ table {
 }
 
 th {
-  text-align: left;
+  text-align: justify;
   padding: 5px 10px;
-  border-bottom: 1px solid #424242;
-  color: #b6b6b6;
-  font-family: 'Open Sans', sans-serif;
+  border-bottom: 1px solid #d8d2e1;
+  color: #d8d2e1;
+  font-family: 'Lusitana', serif;
   font-weight: normal;
 }
 
 td {
-  text-align: left;
+  text-align: justify;
   padding: 5px 10px;
-  border-bottom: 1px solid #434343;
+  border-bottom: 1px solid #d8d2e1;
 }
 
 hr {
   height: 0;
   border: 0;
-  border-bottom: 1px dashed #49B1F7;
+  border-bottom: 1px dashed #d8d2e1;
 }
 
 dt {
   color: #F0E7D5;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Lusitana', serif;
   font-weight: normal;
 }
 
@@ -151,15 +154,15 @@ section .p-title{
 }
 
 section #title h1 {
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Libre Baskerville', serif;
   font-weight: 100;
   font-size: 38px;
   text-align: center;
 }
 
 section #title p {
-  color: #B3D1F0;
-  font-family: 'Open Sans', sans-serif;
+  color: #69246b;
+  font-family: 'Libre Baskerville', serif;
   font-weight: 100;
   font-size: 18px;
   text-align: center;
@@ -167,7 +170,7 @@ section #title p {
 
 section #title .credits {
   font-size: 13px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Libre Baskerville', serif;
   font-weight: normal;
   color: #696969;
   margin-top: -27px;
@@ -201,9 +204,9 @@ footer .right{
   mfont-size: 15px;
   line-height: 24px;
   margin: 0 0 10px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Lusitana', serif;
   font-weight: normal;
-  color: #A3BFC6;
+  color: #454545;
 }
 
 .tags{
@@ -238,7 +241,7 @@ footer .right{
 #title #sitename,
 .resume span,
 .resume h2 {
-  color: #85FF9E;
+  color: #985f99;
 }
 
 #sitename{
@@ -250,5 +253,5 @@ mark, .mark {
 }
 
 .orng{
-  color: #85FF9E;
+  color: #985f99;
 }
