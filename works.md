@@ -4,7 +4,7 @@ permalink: "works/index.html"
 layout: page
 ---
 
- Some of my creations can be experienced through your computer. I like to name them using CAPITAL LETTERS. Here is a sampling: 
+Most of the things I build can't be viewed through your computer, but some can. Here is a sampling: 
 
 _____
 
