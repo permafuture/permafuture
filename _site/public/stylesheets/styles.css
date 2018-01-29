@@ -3,13 +3,13 @@
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville|Lusitana');
 
 body {
-  padding: 0px 0 20px 0px;
+  padding: 0px 0 10px 0px;
   margin: 0px;
   text-align: justify;
   font: 18px/1.5 'Lusitana', serif;
-  color: #454545 ;
+  color: #444554 ;
   font-weight: normal;
-  background: #f4faff;/
+  background: #fdfffc;/
   -webkit-font-smoothing: subpixel-antialiased;
 }
 
@@ -18,7 +18,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#985f99;
+  color:#080705;
   margin: 0 0 10px;
   font-family: 'Libre Baskerville', serif;
   font-weight: normal;
@@ -45,17 +45,17 @@ h3 {
   line-height: 24px;
   font-family: 'Lusitana', serif;
   font-weight: normal;
-  color: #b6b6b6;
+  color: #ff6700;
 }
 
 a {
-  color: #000500;
+  color: #054a91;
   font-weight: 400;
   text-decoration: none;
 }
 
 a:hover {
-  color: #69246b;
+  color: #ff6700;
 }
 
 a:hover, a:active, a:focus, a:visited  {
@@ -126,7 +126,7 @@ td {
 hr {
   height: 0;
   border: 0;
-  border-bottom: 1px dashed #d8d2e1;
+  border-bottom: 1px dashed #ff6700;
 }
 
 dt {
@@ -161,7 +161,7 @@ section #title h1 {
 }
 
 section #title p {
-  color: #69246b;
+  color: #ff6700;
   font-family: 'Libre Baskerville', serif;
   font-weight: 100;
   font-size: 18px;
@@ -241,7 +241,7 @@ footer .right{
 #title #sitename,
 .resume span,
 .resume h2 {
-  color: #985f99;
+  color: #080705;
 }
 
 #sitename{
@@ -253,5 +253,5 @@ mark, .mark {
 }
 
 .orng{
-  color: #985f99;
+  color: #080705;
 }

@@ -1,6 +1,6 @@
 baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
 url: "http://permafuture.net" # the base hostname & protocol for your site.
-title: "Permanent Futures"
+title: "permanent futures"
 
 paginate: 6 #articles per page
 paginate_path: /blog/page:num #makes pagination working
@@ -20,7 +20,7 @@ paginate_path: /blog/page:num #makes pagination working
 
 gems:
   - jekyll-sitemap
-  - jekyll-paginate	
+  - jekyll-paginate
 
 # This is used by feed.xml. Uncomment if you want to use it.
 # description: "..."
@@ -46,5 +46,3 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-
-
