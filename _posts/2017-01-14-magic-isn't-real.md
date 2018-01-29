@@ -1,4 +1,6 @@
-I like to talk about "cognitive security" in these virtual pages. Cogsec. It's a word I found lying around on the internet. It's mildly stained with connotation. The (ugh) cybernihilists were on it last year, but seem to have wandered off and left it relatively unmolested. IBM is trying to make it an industry buzzword associated with their brand so they can appear to be on the cutting edge of something for once. But for the most part it was sitting there like a free kitten or a couch on the curb, full of potential sorely neglected.
+##I like to talk about "cognitive security" in these virtual pages. 
+
+Cogsec. It's a word I found lying around on the internet. It's mildly stained with connotation. The (ugh) cybernihilists were on it last year, but seem to have wandered off and left it relatively unmolested. IBM is trying to make it an industry buzzword associated with their brand so they can appear to be on the cutting edge of something for once. But for the most part it was sitting there like a free kitten or a couch on the curb, full of potential sorely neglected.
 
 So I took it. It's a simple idea if you don't dance circles around it like the academics (or the cybernihilist CHUDs):
 
