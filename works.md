@@ -4,7 +4,7 @@ permalink: "works/index.html"
 layout: page
 ---
 
-Most of the things I build can't be viewed through your computer, but some can. Here is a sampling: 
+Most of the things I build can't be viewed through your computer. Here are some that can:
 
 _____	
 
