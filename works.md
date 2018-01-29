@@ -6,7 +6,7 @@ layout: page
 
 Most of the things I build can't be viewed through your computer, but some can. Here is a sampling: 
 
-_____
+_____	
 
 ## SCIOPS: A Cogsec Newsletter
 
