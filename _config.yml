@@ -1,6 +1,6 @@
 baseurl: "" # The subpath of your site. Use "" if you're hosting a blog at the root level.
 url: "http://permafuture.net" # the base hostname & protocol for your site.
-title: "Permanent Future"
+title: "Permanent Futures"
 
 paginate: 6 #articles per page
 paginate_path: /blog/page:num #makes pagination working
